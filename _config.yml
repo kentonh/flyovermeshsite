@@ -78,6 +78,13 @@ posthog:
   api_key: "phc_bOKiOugixih23GlGpkCBcnviiTMj3s0G3JT0XQjruRx"
   api_host: "https://us.i.posthog.com"
 
+# Highlight Banner - dismissable banner at the top of content
+highlight_banner:
+  enabled: true
+  id: "q1-meetup"  # Change to show new banner to users who dismissed old
+  text: "First meetup Feb 21 @1pm! [Learn more](https://discord.com/events/1362559552939360276/1470490624523370556)"
+  style: info  # info, success, or warning
+
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
