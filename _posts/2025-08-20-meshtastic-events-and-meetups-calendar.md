@@ -7,6 +7,14 @@ categories: [community]
 
 To encourage connection and learning.
 
+### First Meetup:
+**Saturday February 21, 2026 from 1:00pm to 3:00pm**
+- Get together with other meshers.
+- Bring your portable node if you have one, or just bring yourself!
+- No RSVP required. No need to stay the whole time. I hope as many can attend as possible!  See you there!
+[Learn More](https://discord.com/events/1362559552939360276/1470490624523370556)
+
+
 ### Weekly Mesh Net:
 **Sunday from 8:00pm to 8:30pm**
 - This is a chance to try out your equipment and setup. Hop on Long Fast channel, see if you can connect, and to whom.
